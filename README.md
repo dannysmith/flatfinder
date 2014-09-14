@@ -6,4 +6,4 @@ This is a simple ruby app, thrown together in 2 hours, to display properties fro
 
 * The code is a mess.
 * `file.txt` needs to be updated manually, though if I end up looking for a flat for more than a few weeks, I might well set it recieves the email they send out and updates itself. That sounds like it might be complicated, though.
-* The full listing is at `\` and the filter for my specific criteria is at `/danny`.
+* The full listing is at `/` (here)[http://flatfinder-london.herokuapp.com] and the filter for my specific criteria is at `/danny` (here)[http://flatfinder-london.herokuapp.com/danny].
