@@ -1,0 +1,781 @@
+Semi Studio	1	Scrubbs lane (pics ex.)	NW10 6AA	Willesden Junction	135	inclusive	6 Months+
+Semi Studio	1	Wrights Lane	W8	High Street Kensington	145	inc + ct + elec	6 Months+
+Semi Studio	1	Hornsey Road	N19	Archway	150	exclusive	6 Months+
+Semi Studio	1	Edgware Road (student)	W2	Edgware Road	155	inc + elec	6 Months+
+Semi Studio	1	Kensington Garden Square	W2	Bayswater	170	inclusive	3 Months+
+Semi Studio	1	Pennard Road	W12	Shepherds Bush	173	inc + elec	6 Months+
+Semi Studio	2	Sumatra Road (£170 for 1 person)	NW6 West Hampstead	173	inclusive	6 Months+
+Semi Studio	2	Finborough Road	SW10	Earl&#39;s Court	173	inclusive	6 Months+
+Semi Studio	1	Lloyd Baker Street (for a student)	WC1	Russell Square	169	inc + elec	6 Months+
+Semi Studio	2	Uxbridge Road	W12	Shepherds Bush Market	180	inc + ct + elec	6 Months+
+Semi Studio	2	Bina Gardens	SW5	Gloucester Road	180	inclusive	6 Months+
+Double Room	1	Lloyd Baker Street	WC1	Russell Square	185	inclusive	3 Months+
+Semi Studio	1	Stern Street	W12	Shepherds Bush	185	inc + elec	6 Months+
+Semi Studio	1F	Warwick Road	SW5	Earl&#39;s Court	185	inc + elec	6 Months+
+Semi Studio	2	Warwick Road	SW5	Earl&#39;s Court	185	inc + elec	6 Months+
+Semi Studio	2	Uxbridge Road	W12	Shepherds Bush	185	inc + elec	6 Months+
+Semi Studio	1	Lexham Gardens (vacant 1/9/14)	W8 5JR	Gloucester Road	190	inc + elec	1 Year
+Semi Studio	1	Collingham Road	SW5 ONT	Gloucester Road	190	inc + elec	1 Year
+Semi Studio	2	Matheson Road	W14	West Kensington	190	inclusive	6 Months+
+Semi Studio	1	Lexham Gardens (vacant 1/9 view then)	SW7	Gloucester Road (double for 1)	195	inc + elec	1 Year
+Semi Studio	1	Cromwell Road	SW5	Gloucester Road/Earls Court	210	inc + elec	2 Months+
+Semi Studio	2	West Cromwell Road	SW5 6DR	Earl&#39;s Court	210	inc+C Tax	6 Months+
+Semi Studio	2	Cromwell Road (available1/9/14)	SW5	Gloucester Road	210	inc + ct	10 Months
+Semi Studio	1	Collingham road	SW7 0NT	Gloucester Road	230	inc + elec	6 Months+
+Semi Studio	2	Royal College Street	NW1	Camden Town (share bathroom with 1)	230	inc + ct	6 Months+
+Semi Studio	2	Collingham Road	SW5 ONT	Gloucester Road	230	inc + elec	10 Months
+Semi Studio	2	Emperor&#39;s gate	SW7 4HH	Gloucester Road	235	inc + elec	6 Months+
+Semi Studio	2	Emperor&#39;s gate	SW7 4HH	Gloucester Road	235	inc + elec	6 Months+
+Semi Studio	2	Emperor&#39;s gate	SW7 4HH	Gloucester Road	235	inc + elec	6 Months+
+Semi Studio	2	Emperor&#39;s gate	SW7 4HH	Gloucester Road	235	inc + elec	6 Months+
+Semi Studio	2	Emperor&#39;s gate	SW7 4HH	Gloucester Road	235	inc + elec	6 Months+
+Semi Studio	2	Emperor&#39;s gate	SW7 4HH	Gloucester Road	235	inc + elec	6 Months+
+Semi Studio	2	Emperor&#39;s gate	SW7 4HH	Gloucester Road	235	inc + elec	6 Months+
+Semi Studio	2	Collingham road	SW7 0NT	Gloucester Road	240	inc + elec	6 Months+
+Semi Studio	2	Emperor&#39;s gate	SW7 4HH	Gloucester Road	240	inc + elec	6 Months+
+Semi Studio	2	Emperor&#39;s gate	SW7 4HH	Gloucester Road	240	inc + elec	6 Months+
+Semi Studio	2	Royal College Street	NW1	Camden Town (share bathroom with 1)	250	inc + ct	6 Months+
+Semi Studio	2	Emperor&#39;s Gate	SW7	Gloucester Road	260	inc + elec	1 Month+
+Semi Studio	2	Oakley Street	SW3 5NR	South Kensington	300	inc + elec	2 Months+
+Single Room	1F	Staines Road	LG1ZXA	Ilford (4 mins to Barking)	60	inclusive 3 Months+
+Single Room	1M	Sunnymead road	NW9	Wembley Park/Kingsbury	90	inclusive	1 Month+
+Twin Room	1F	Marloes Road ( to share with 1f)	W8	High Street Kensington	90	inclusive	1 Month+
+Single Room	1	Crefeld Close x2	W6 8BL	Barons Court	95	inc + elec	3 Months+
+Single Room	1M	Wandsworth Road	SW8 3JF	Clapham North/ Clapham Common	105	inc+elec	6 Months+
+Single Room	1M	Stonen Street	N4	Finsbury Park	115	inclusive	1 Month+
+Single Room	1	Temple Road (large room)	NW2 6TB	Kilburn	115	inclusive	3 Months+
+Single Room	1	Forty Close	HA9 8LJ	Wembley Park	115	inclusive	6 Months+
+Single Room	1	Heyworth Road	E5 8DR	Hackney Central	120	inclusive	3 Months+
+Double Room	1	Staverton Road	NW2 5HL	Willesden Green	120	exclusive	3 Months+
+Single Room	1	Hendon Way (vacant 15/9)	NW4 3NE	Hendon	120	inclusive	6 Months+
+Single Room	1	Ashridge Gardens	N13	Arnos Grove	120	inc + elec	6 Months+
+Single Room	1	Mora Road	NW2 6TB	Kilburn / Willesden Green 125	inclusive	3 Months+
+Single Room	1	Southhampton Road	NW5 4QX	Kentish Town/Chalk Farm	127	inc + elec	3 Months+
+Single Room	1F	Abbey Road	NW8	St Johns Wood	136	inc + elec	6 Months+
+Single Room	1F	Novello Street	SW6	Parsons Green	138	inclusive	6 Months+
+Single Room	1	Niton Street (Until end of November)	W6	Hammersmith	138	inclusive	3 Months+
+Single Room	1	Sisters Avenue	SW11	Clapham Common/ Clapham Junction	138	inc + elec	6 Months+
+Single Room	1	Alexander Road	SE26 5NL	Sydenham	140	inclusive	1 Month+
+Single Room	1	Wendover Road	NW10 4RX	Willesden Junction	140	inclusive	6 Months+
+Single Room	1F	St Annes Road, agnes house	W11 4DR	Holland Park	145	inclusive	3 Months+
+Single Room	1M	Tadema Road	SW10	Earls Cour/Chelsea	150	inc	6 Months+
+Single Room	1	Atkins Road (very large)	SW12 OBE	Balham	150	inclusive	3 Months+
+Single Room	1	Priory Avenue	W4 1TZ	Turnham Green	150	inclusive	1 Month+
+Single Room	1	Sisters Avenue	SW11 Clapham Common/ Clapham Junction	150	inc + elec	6 Months+
+Single Room	1	Baldwyn Gardens	W3	Acton (1 week to 6 mths)	160	inclusive	2 Weeks+
+Single Room	1F	Warwick Road	SW5	Earl&#39;s Court	173	inc + elec	6 Months+
+Single Room	1	Clarendon Street	SW1V 2EN	Victoria/Pimlico	175	inc	1 Month+
+Single Room	1	Sisters Avenue	SW11	Clapham Common/Junction	175	inc + elec	3 Months+
+Single Room	1	Clarendon Street	SW1	Pimlico	175	inclusive	2 Weeks+
+Single Room	1	Elsham Road	W14	Kensington Olympia	175	inclusive	1 Month+
+Single Room	1	Elsham Road	W14	Kensington Olympia	185	inclusive	1 Month+
+Double Room	1	Nevern Square	SW5	Earls Court	207	inclusive	3 Months+
+Double Room	2	Catherin Gardens (115 for 2)	SE9 6AN	Eltham	103	inclusive	3 Months+
+Double Room	1	London Road	TW8 8ZH	Gunnersbury + bus ride	110	inclusive	3 Months+
+Double Room	1F	Upstell Avenue x2	N13 6JJ	Wood Green	115	inclusive	3 Months+
+Double Room	1	Commonside West	CR4 4HA Mitchum	120	inclusive	
+Double Room	1	Brook Avenue	HA9 8PH	Wembly Park (must be vegaterian)	120	inclusive	3 Months+
+Double Room	1M	Albert Road (pics ex)	N4	Finsbury Park	120	inclusive	1 Month+
+Double Room	2	Buchanan Gardens (garden)	NW105AE	Kensal Green	125	inclusive	1 Month+
+Double Room	1	Old Road	SE13 5SZ	Lewisham	127	inclusive	3 Months+
+Double Room	1	Howley Place	W2 1UZ	Warwick Avenue	129	inc + elec	3 Months
+Double Room	2	Waverley Gardens	NW10 7EE	Ealing	130	inclusive	6 Months+
+Double Room	1	North End Road	W14 9BA	Barons Court / West Kensington	130	inclusive	3 Months
+Double Room	1F	Glengall Road	NW6	Kilburn	130	inclusive	3 Months+
+Double Room	1	Temple Road	NW2 6TB	Kilburn / Willesden Green	130	inclusive	3 Months+
+Double Room	1	West Hill	HA9 9RS	Preston Road	130	inclusive	6 Months+
+Double Room	2	Streatham Vale	SW16 5JB	Streatham Common	130	incl	3 Months+
+Double Room	2	Aubert Park (£140 for 2)	N5	Arsenal	130 inclusive	6 Months+
+Double Room	1	Warwick Avenue	W9	Warwick Avenue	133	inc + elec	3 Months+
+Double Room	2	Heathfield Square (130 for 1)	SW18 3HY	Wandsworth	140	inclusive	3 Months+
+Double Room	1	Knights Avenue	Acton Town/South Ealing	138	inclusive	3 Months+
+Double Room	1	Holland Road	NW10 5AY	Willesden Junction	138	inc + elec	3 Months+
+Double Room	2	Buchanan Gardens	NW105AE	Kensal Green	138	inclusive	1 Month+
+Double Room	2	Crone Court, Denmark Road	NW6	Queen&#39;s Park (2 rooms available)	138	inclusive	3 Months+
+Double Room	2	Old Road	SE13 5SZ	Lewisham	138	inclusive	3 Months+
+Double Room	2	Ivy Road (£138for 2)	NW6	Cricklewood/ Kilburn	127	inc + elec	3 Months+
+Double Room	2	Buchanan Gardens	NW105AE	Kensal Green	138	inclusive	1 Month+
+Double Room	2	Park View	W3	Acton	140	inclusive	6 Months+
+Double Room	1F	Marloes Road (2 Months Only)	W8	High St Kensington	140	inclusive	1 Month+
+Double Room	1	Chapter Road	NW2 5LG Dollis Hill	140	inclusive	6 Months+
+Double Room	1	Mora Road	NW2 6TB	Kilburn / Willesden Green	140	inclusive	3 Months+
+Double Room	2	Obart Park (1mth dep + 1week advance)	N5 1TS	Arsenal (130 for 1)	140	inclusive	3 Months+
+Double Room	1	Mile End Road	E1 4AA	Stepney Green	143	inclusive	6 Months+
+Double Room	1M	Addison Bridge Place (viewing 1/9/14)	W14	Kensington/Olympia	143	inclusive	6 Months+
+Double Room	1	Wolftencroft Close	SW11 2LB	Clapham Junction	144	inclusive	6 Months+
+Double Room	1	Humbolt Road (vierwing 5/9/14)	W6 8QJ	Barons Court	150	inclusive	6 Months+
+Double Room	1	Gibralter Walk, Brick Lane	EC1	Liverpool Street	150	inclusive	2 Weeks+
+Double Room	1	Frithville Gardens	W12 7JN	Shepherds Bush	150	inclusive	2 Months+
+Double Room	1	Manbey Road	E15	Stratford	150	inclusive	6 Months+
+Double Room	1	Hammersmith Road (2 available)	W6	Hammersmith / Olympia	150	inclusive	6 Months+
+Double Room	1	Mile End Road	E1	Stepney Green 150	inclusive	3 Months+
+Double Room	1	White City	W12	White City (close to Westfield)	150	inclusive	6 Months+
+Double Room	1	Bryony Road (share reception room with 1 who is rarely there)	W12	Shepherds Bush	150	inclusive	6 Months+
+Double Room	1	Goldsmith Road	W3	Acton Central	150	inclusive	3 Months+
+Double Room	1	Kilburn High Road	NW6 2QJ	Kilburn	150	inclusive	6 Months+
+Double Room	1	Ashbourne Close	W5	West Acton/North Ealing	150	exclusive	3 Months+
+Double Room	2	Baskerville Gardens	NW10 1PF	Neasden	150	inclusive	6 Months+
+Double Room	2	Percy Road	W12 9QA	Shepherds Bush	150	inclusive	1 year
+Double Room	2	Churchill Road (£160 for 2)	W3	Acton Central	150	inclusive	3 Months+
+Double Room	2	Swiss Cottage (2 wk deposit)	NW8	Swiss Cottage	150	inclusive	1 Month+
+Double Room	2	Wembly	W2	Wembley	150	inc + elec	6 Months+
+Single Room	1F	Balcombe Street	NW1	Baker Street	154	inc + elec	6 Months+
+Double Room	2	Woodside Park	N Woodside Park	154	inclusive	3 Months+
+Double Room	1	Southhampton Road	NW5 4QX	Kentish Town/Chalk Farm	155	inc + elec	3 Months+
+Double Room	2	Staverton Road	NW2 5HL	Willesden Green	155	exclusive	3 Months+
+Double Room	1	Hazlewood Crescent	W10	Westbourne Park	159	inclusive	6 Months+
+Double Room	1	Priory Avenue (1week deposit + 3weeks advance)	W4	Turnham Green	160	inclusive	1 Month+
+Double Room	1	Shepherd&#39;s Bush	W12	Shepherd&#39;s Bush	160	inclusive	6 Months+
+Double Room	1M	Margravine Gardens	W6 9ST	Barons Court	160	inclusive	6 Months+
+Double Room	1	Osier Crescent	N10	Muswell Hill	160	inclusive	6 Months+
+Double Room	1	Fulham Road	Putney Bridge	160	inc + elec	6 Months+
+Double Room	2	East Putney	Sw18 2a	Wandsworth	160	inclusive	3 Months+
+Double Room	2	Dawes (170 for 2)	SW6	Fulham Broadway	160	inclusive	3 Months+
+Double Room	1F	Warriner Gardens	SW11	Sloane Square/Battersea	161	inclusive	3 Months+
+Double Room	1F Chilworth Street	W2	Paddington	161	incl +elec	3 Months+
+Double Room	1	Pendrin Way	N7 0EW	Holloway Road	161	inc + elec	3 Months+
+Double Room	1F	Novello Street (ensuite shower)	SW6	Parsons Green	161	inclusive	6 Months+
+Double Room	2	Goldsmith	W3	Acton Central	161	inc + elec	6 Months+
+Double Room	2	Atkins Road	SW12 0AA	Balham / Clapham South	165	inclusive	3 Months+
+Double Room	2	Weston Street (free internet - has double bed plus single bed)	SE 1	London Bridge (1 or 2)	165	inc + elec	6 Months+
+Double Room	1	Pendrin Way	N7 0EW	Holloway Road	166	exclusive	3 Months+
+Double Room	1	Longridge Road	SW5	Earls Court	170	inclusive	3 Months+
+Double Room	1	Gibralter Walk, Brick Lane	EC1	Liverpool Street	170	inclusive	2 Weeks+
+Double Room	2	Earls Court Road	SW5	Earls Court	170	inclusive	1 Month+
+Double Room	2	Queensgate gardens	Sw7 5RR	South Kensington	170	exclusive	6 Months+
+Single Room	1	Stanhope Gardens	SW7	Gloucester Road	170 inclusive	3 Months+
+Double Room	2	Woodside Park	N	Woodside Park	170	inclusive	3 Months+
+Double Room	2	Hyde Park Mansions Cabell St	W2	Edgware Road	170	inclusive	6 Months+
+Double Room	2	Pearscroft Road (£160 for 1)	SW6	Fulham Broadway	170	inclusive	3 Months+
+Double Room	2	Ladbroke Grove	W11	Ladbroke Grove	170	inclusive	1 Month+
+Double Room	2	Swiss Cottage	NW8	Swiss Cottage	170	inclusive	1 Month+
+Double Room	1	Hungerford Road	N7 9LD	Kentish Town/Caledonian Road	173	inc + elec	3 Months+
+Double Room	1	Conningham Road	W12	Shepherds Bush	173	inclusive	6 Months+
+Double Room	1	Conningham Road	W12	Shepherds Bush	173	inclusive	6 Months+
+Double Room	1	Fulham Road, Chelsea	SW6	Fulham Broadway	173	inclusive	3 Months+
+Double Room	1	Hammersmith	W6	Hammersmith	175	inclusive	6 Months+
+Double Room	1	Coningham Road, (4 available)	W12 8BH	Shepherds Bush	175	inclusive	6 Months+
+Double Room	2	Alpha House	NW8	180	inclusive	3 Months+
+Double Room	1	Warwick Road	SW5 9EZ	Earls Court	180	inclusive	3 Months+
+Double Room	1	Fulham Palace Road	SW6 6HS	/Hammersmith	180	inc +elec	1 Month+
+Double Room	1	Cornwall Gardens	SW7	Gloucester Road	180	inclusive	3 Months+
+Double Room	1	Finborough Road	SW10 9ED	Earls Court	180	inclusive	3 Months+
+Double Room	1	Pennywern Road	SW5	Earls Court	180	inclusive	3 Months+
+Double Room	1	Fulham Palace Road	W6	Hammersmith	180	inclusive	1 Month+
+Double Room	1	Cremorne Road	SW10 0NA	Chelsea	180	inclusive	2 Months+
+Double Room	1F	St Annes Road, agnes house	W11 4DR	Holland Park	180	inclusive	3 Months+
+Double Room	2	Wandsworth Bridge Road(£160 for 1)	SW6 2UL	Fulham Broadway	180	inclusive	3 Months+
+Double Room	2	Sisters Avenue (£173 for 1 person)	SW11 5SN	Clapham Common/ Clapham Junction	180	inclusive	6 Months+
+Double Room	2	Melrose Gardens (showing from 25/9/	W6 7RN	Hammersmith	180	inclusive	6 Months+
+Double Room	2 Finborough Road	SW5	Earls Court	180	inclusive	1 Month+
+Double Room	2	Atkins Road	SW12 0AA	Balham / Clapham South	180	inclusive	3 Months+
+Double Room	2	Broomehouse Lane	SW63DW	Parsons Green	180	inclusive	3 Months+
+Double Room	2	Hyde Park Gate	SW7 5DW	Hyde Park	180	inclusive	6 Months+
+Double Room	2	North Pole Road	W10 6QL	Ladbroke Grove	180	inclusive	6 Months+
+Double Room	2	Chiswick High Road (£173 for 1 person)	W4	Turnham Green	184	inclusive	3 Months+
+Double Room	1	Greswell Street	SW6	Putney Bridge/Fulham (share sitting room)	185	inc	3m +
+Double Room	1	Upper Mall St	W6	Ravenscourt Park	185	inclusive	6 Months+
+Double Room	1	Southhampton Road	NW5 4QX	Kentish Town/Chalk Farm	185	inc + elec	3 Months+
+Double Room	1F	Westbourne Park Road	W2	Bayswater/Royal Oak	185	inclusive	3 Months+
+Double Room	2	Woodford Square	W11	Holland Park	185	+ 10 bills	6 Months+
+Double Room	2	Woodsford Square x2	W11	Holland Park	185	inc + elec	3 Months+
+Double Room	2	Dawes Road (185 for 2)	SW6	Fulham Broadway (2 double rooms)	175	inclusive	6 Months+
+Double Room	2	Nottingwood House, Clarendon Road (2X)	W11	Notting Hill	190	inclusive	6 Months+
+Double Room	1	Penywern Road	SW5 9TT	Earls Court	180	inclusive	10 Months
+Double Room	2	Sisters Avenue	SW11 5SN	Clapham Common/ Clapham Junction	190	inclusive	3 Months+
+Double Room	2	Atkins Road (very large)	SW12 OBE	Balham	190	inclusive	3 Months+
+Double Room	1	Central Street	EC1V 8BY	Old Street	196	inclusive	3 Months+
+Double Room	1	Beaumont Street	W1G 6DQ	Marylebone	196	exclusive	3 Months+
+Double Room	2	Woodford Square	W11	Holland Park	196	+ 10 bills	6 Months+
+Double Room	1	Kings Road	SW3	Sloane Square	199	inclusive	6 Months+
+Double Room	2	Kentish Town Road	NW1 8NY	Kentish Town	200	inclusive	6 Months+
+Double Room	1	Pennywern Road	SW5	Earls Court	200	inclusive	3 Months+
+Double Room	1	Sherbourne Court, Cromwell Road	Sw7 Gloucester Road	200	inclusive	1 Month+
+Double Room	1	Fulham Palace Road	W6	Hammersmith	200	inclusive	1 Month+
+Double Room	2	Glazbury Road (170 for 1 - 5 rooms available))	W14	Barons Court/West Kensington	200	inclusive	1 Month+
+Double Room	2	Lillie Road (170 for 1 - 5 rooms available)	W14	West Brompton/Fulham	200	inclusive	1 Month+
+Double Room	2	Earls Court Road	SW5	Earls Court	200	inclusive	1 Month+
+Double Room	2	Clarendon Street	SW1	Pimlico	200	inclusive	1 Month+
+Double Room	2	Old Street	EC1V 8BY	Old Street	201	inclusive	6 Months+
+Double Room	1	Lever Street	EC1V 8BY	Angel/ Old Street	202	inclusive	3 Months+
+Double Room	1	Lever Street	EC1V 8BY	Angel/ Old Street	207	inclusive	3 Months+
+Double Room	1	Central Street	EC1V 8BY	Old Street	207	inclusive	3 Months+
+Double Room	2	Old Street	EC1V 8BY	Old Street	207	inclusive	6 Months+
+Double Room	2	Pennywern Road (3 available)	SW5 9TT	Earls Court	210	inclusive	3 Months+
+Double Room	2	Earls Court Road	SW5	Earls Court	210	inclusive	1 Month+
+Double Room	2	Hyde Park Gate	SW7 5DW	Hyde Park	210	inclusive	6 Months+
+Double Room	1	Nevern Square (proffesional flat share with 1)	SW5	Earls Court	219	inc + elec	3 Months+
+Double Room	2	Clarendon Street	SW1V	Victoria/Pimlico	220	inclusive	1 Month+
+Double Room	1	Sherbourne Court, Cromwell Road	Sw7	Gloucester Road	230	inclusive	1 Month+
+Double Room	1	Haverstock Hill (share luxury flat with 1)	NW3 4RP	Belsize Park (own balcany)	230	exclusive	6 Months+
+Double Room	2	Penywern Road (available1/9//14)	SW5 9TT	Earls Court	230	inclusive	10 Months
+Double Room	2	Cromwell Road	SW7	Gloucester Road	230	inclusive	1 Month+
+Double Room	2	Philbeach Gardens	SW7	Earls Court	230	inclusive	1 Month+
+Double Room	2	Elsham Road	W14	Kensington Olympia	245	inclusive	3 Months+
+Double Room	1	Beaufort Street	SW3 5AF	South Kensington	260	inclusive	6 Months+
+Double Room	2	Hornton St	W8	High St Kensington	300	inc + ct + elec	6 Months+
+Double Room	2	Harrington gardens	SW7	Gloucester Road	300	inc + elec	2 Weeks+
+Double Ensuite	1F	Warriner Gardens (view over gardens)	SW11	Sloane Square/Battersea	207	inclusive	1 Month+
+Double Ensuite	1	Woodsford Square	W11	Holland Park	208	inc + elec	3 Months+
+Double Ensuite	1	Cornwall Gardens	SW7	Gloucester Road	210	inclusive	1 Month+
+Double Ensuite	3	Emperors Gate (just 2 months let until 18/9)	SW7	Gloucester Road	220	inc + elec	2 Months
+Double Ensuite	1	Old Brompton Road	SW7	South Kensington (next to Christies	250	inclusive	3 Months+
+Double Ensuite	1	Cornwall Gardens	SW7	Gloucester Road	250	inclusive	1 Month+
+Double Ensuite	2	Queensgate gardens	Sw7 5RR	South Kensington (av. 1/9)	300	exclusive	6 Months+
+Twin Room	2	Weston Road (free internet)	SE 1	London Bridge (1 or 2)	150	inc + elec	6 Months+
+Twin Room	2	Weston Road (free internet - has double bed plus single bed)	SE 1	London Bridge (1 or 2)	165	inc + elec	6 Months+
+Twin Room	2F	Park Avenue	NW2	Willesdon Green	170	inclusive	3 Months+
+Twin Room	2	Rainville Road (view 22/9)	W12	Hammersmith	180	inclusive	3 Months+
+Twin Room	2	Priory Avenue	W4 1TZ	Turnham Green	180	inclusive	1 Month+
+Twin Room	2	Clarendon Street	SW1	Pimlico	200	inclusive	1 Month+
+Twin Room	2	Camden Hill Gardens	W8	Nottinghill Gare	210	inclusive	1 Month+
+Twin Room	2	Clarendon Street	SW1	Pimlico	220	inclusive	1 Month+
+Twin Room	2	Glendower Place (2 weeks deposit &amp; 1 week advance)	SW7	South Kensington (own shower &amp; wc)	220 inclusive	1 Month+
+Twin Room	2	Elsham Road	W14	Kensington Olympia	245	inclusive	3 Months+
+Twin Room	2	Penywern Road (available1/9//14)	SW5 9TT	Earls Court	250	inclusive	1 Year
+Twin Room	3	Cromwell Road (Tripple Room)	SW7	Gloucester Road	250	inclusive	1 Month+
+Studio	Queensborourgh Terrace (Twin)	W2 3TB	Bayswater	300	inc + elec	3 Months+
+Studio 1	Edith Road	W14 0TH	West Kensington	115	+ 20 bills	6 Months+
+Studio	2	Chaucer Avenue	TW4 6NA	Hounslow/Cranford	135	inc + ct	1 year
+Studio	2	Chiswick High Road	W4 2LT	Stamford Brook	135	+ 20 bills	6 Months+
+Studio	1	Carlton Avenue East	HA9 8LZ	Wembley	143	inclusive	3 Months+
+Studio	1	Glazbury Road	W14	Barons Court/West Kensington	145	exclusive	6 Months+
+Studio	2	St Albans Road	WD17 IRN	Watford (many available)	150	exclusive	6 Months+
+Studio	1	St Stephen&#39;s Gardens	W2 5QU	Notting Hill	155	+ 20 bills	6 Months+
+Studio	2	Hammersmith Grove	W6 7HB	Hammersmith	155	+ 20 bills	6 Months+
+Studio	1	Agar Grove	Nw1 9BT	Camden Town	170	inclusive	3 Months+
+Studio	2	Brownlow Road	N11	Bounds Green	170	inc + elec	6 Months+
+Studio	1	Erlanger Road	SE 14	New Cross Gate	173	inc + elec	6 Months+
+Studio	2	Green Lanes	N4	Manor House	173	inc + elec	6 Months+
+Studio	1	Blakesley Avenue	W5	Ealing Broadway	175	inc + ct + elec	6 Months+
+Studio	2	The Burroughs	NW4 4AN	Hendon	175	inclusive	6 Months+
+Studio	2	Golders Way	NW11 8JY	Golders Green	180	inc + ct + elec	6 Months+
+Studio	2	Gloucester Place	NW1	Baker Street	185	inc + elec	6 Months+
+Studio	2	Clithero Road	SW9	Stockwell	185	inc + elec	6m +
+Studio	2	Angell Road	SW9 7PD	Brixton/ Loughborough Junction	185	inclusive	6 Months+
+Studio	2	Bonham Road	SW2	Brixton	185	inclusive	6 Months+
+Studio	2	Lennard Road	SE20 7LX	Penge East/New Beckenham	189	inc+elec	6 Months+
+Studio	2	Bracewell Road	W10	White City	190	inc + ct + elec	6 Months+
+Studio	2	Halford Road	SW6 1JT	Fulham Broadway	200	inc + elec	6 Months+
+Studio	1	Lillie Road (Wi Fi inc)2 available	SW6	West Brompton (brand new + W/M)	195	inclusive	6 Months+
+Studio	2	Chiswick High Road	W4 2LT	Stamford Brook	195	+ 20 bills	6 Months+
+Studio	1F	Warwick Road	SW5	Earl&#39;s Court	196	inc + elec	6 Months+
+Studio	1	Wrights Lane	W8	High Street Kensington	196	inc of water and heating	6 Months+
+Studio	1	Wrights Lane	W8	High Street Kensington	196	inc of water and heating	6 Months+
+Studio	2	Greatfields Road	Barking	196	inclusive	6 Months+
+Studio	2	North Pole Road	W10	White City (£185 for 1)	196	inc + elec	6 Months+
+Studio	1	Halford Road (own Garden)	SW6 1JT	West Brompton	200	inc + elec	6 Months+
+Studio	1	Ealing (loft studio)	W5	Ealing	200	inclusive	6 Months+
+Studio	2	Stanthorpe road	sw16 2dx	Streatham	200	inc	3 Months+
+Studio	2	Finchley Road	NW3 6DT	Swiss Cottage	200	inc + ct + elec	6 Months+
+Studio	2	Blakesley Avenue	W5	Ealing Broadway	200	inc + ct + elec	6 Months+
+Studio	2	Askew Crescent	W12 9DP	Shepherd&#39;s Bush	200	inc + elec	3 Months+
+Studio	2	Cooper Road	NW10 1BG	Dollis Hill	200	inclusive	3 Months+
+Studio	2	Gloucester Place	NW1	Baker Street	200	inc + elec	6 Months+
+Studio	2	Courtfield Gardens	SW5	Gloucester Road	200	inc+elec	6 Months+
+Studio	1 Halford Road	SW6 1JT	West Brompton	205	inc + elec	6 Months+
+Studio	1	West End Lane	NW6 1UX	West Hampstead	205	inc + ct + elec	6 Months+
+Studio	2	Halford Road	SW6 1JT	Fulham Broadway	205	inc + elec	6 Months+
+Studio	2	Wood Lane	W12	Shepherds Bush	207	inc+elec	6 Months+
+Studio	2	Gunnersbury Avenue	W3	Acton	210	inclusive	6 Months+
+Studio	1	Bina Gardens (vacant 25 September)	SW5	Gloucester Road	210	inc + elec	2 Months+
+Studio	1	Collingham road	SW7 0NT	Gloucester Road	210	inc + elec	6 Months+
+Studio	2	Dawes Road	SW6 1JT	Fulham Broadway	210	inclusive	6 Months+
+Studio	2	Wrights Lane	W8	High Street Kensington	210	inc of water and heating	6 Months+
+Studio	2	Dawes Road	SW6 7DT	Fulham Broadway	210	inc + elec	6 Months+
+Studio	2	Finchley Road	NW3 6DT	Swiss Cottage	210	inc + ct + elec	6 Months+
+Studio	2	Macfarlane Road	W12	Shepherds Bush	213	inc + elec	6 Months+
+Studio	1	Talbot Road	W2 5LH	Bayswater	215	inc of water and heating	6 Months+
+Studio	2	Lime Grove	W12 8EE	Shepherds Bush	215	inc + elec	6 Months+
+Studio	2	Dawes Road	SW6 1JT	Fulham Broadway	215	inclusive	6 Months+
+Studio	2	West End Lane	NW6 1UX	West Hampstead	215	inc + ct + elec	6 Months+
+Studio	2	Finchley Road	NW3 6DT	Swiss Cottage	215	inc + ct + elec	6 Months+
+Studio	2	Talgarth Road	W14	West Kensington	219	inclusive	3 Months+
+Studio	2	Holloway Road w(ith garden)	N7	Archway	219	exclusive	
+Studio	2	Kilburn Lane (3 available)	W10 4BQ	Queens Park	219	inclusive	6 Months+
+Studio	1	Wrights Lane	W8	High Street Kensington	220	inc of water and heating	6 Months+
+Studio	1	Warbeck Road	W12	Shepherds Bush Market	220	inclusive	6 Months+
+Studio	2	Lime Grove	W12	Shepherds Bush	220	inc+elec	6 Months+
+Studio	2	Halford Road	SW6 1JT	West Brompton	220	inc + elec	6 Months+
+Studio	2	Finchley Road	NW3	Finchley Road	220	inc + elec	6 Months+
+Studio	2	The Burroughs	NW4	Hendon Central	220	inc + elec	6 Months+
+Studio	2	Chalk Farm Road	NW1 8AN	Chalk Farm	220	inc+elec+ct	6 Months+
+Studio	2	Fortune Green Road	NW6 1DH	West Hampstead	220	inc+elec+ct	6 Months+
+Studio	2	West End Lane	NW6	West Hampstead	220	inclusive	6 Months+
+Semi Studio	2	Penywern Road	SW5 9SX	Earl&#39;s Court	225	inclusive	6 Months+
+Studio	2	The Burroughs (has seperate kitchen within studio)	NW4 4AN	Hendon	225	inclusive	6 Months+
+Studio	2	Talbot Road	W2 5LH	Bayswater	225	inc of water and heating	6 Months+
+Studio	2	Golders Way	NW11 8JY	Golders Green	225	inc + ct + elec	6 Months+
+Studio	2	Fortune Green Road	NW6 1DH	West Hampstead	225	inc+elec+ct	6 Months+
+Studio	2	Park Hill	W5	Ealing	230	inclusive	6 Months+
+Studio	2	Park Hill	W5 2JN	Ealing	230	Exclusive	6 months+
+Studio	2	Halford Road	SW6 1JT	Fulham Broadway	230	inc + elec	6 Months+
+Studio	2	Wrights Lane	W8	High Street Kensington	230	inc of water and heating	6 Months+
+Studio	2	Golders Way	NW11 8JY Golders Green	230	inc + ct + elec	6 Months+
+Studio	2	Kings Avenue	N10 1PA	East Finchley / Highgate	230	inc + elec	6 Months+
+Studio	2	Talbot Road	W2 5LH	Bayswater	230	inc of water and heating	6 Months+
+Studio	2	Talbot Road	W2 5LH	Bayswater	230	inc of water and heating	6 Months+
+Studio	2	Talgarth Road	W14	West Kensington	230	inc + elec	3 Months+
+Studio	2	Queensborough Terrace	W2 3SH	Bayswater	230	inc + elec	6 Months+
+Studio	2	Bowerdean Street	SW6	Fulham Broadway	230	inc + ct	6 Months+
+Studio	1	Weatherby Place	SW7	Gloucester Road (vacant 25/9)	235	inc + elec	1 Year
+Studio	1	Weatherby Place	SW7	Gloucester Road	235	inc + elec	2 Months+
+Studio	2	Dawes Road	SW6 7DT	Fulham Broadway	235	inc + elec	6 Months+
+Studio	2	Askew Crescent	W12 9DP	Shepherd&#39;s Bush	235	inc + elec	6 Months+
+Studio	2	Cazenove Road	N16	Stoke Newington	235	inclusive	6 Months+
+Studio	2	Penywern Road	SW5 9SU	Earls Court	240	inclusive	6 Months+
+Studio	2	Camden Town	NW1	Camden Town	240	inclusive	3 Months+
+Studio	1	Talbot Road	W2 5LH	Bayswater	240	inc of water and heating	6 Months+
+Studio	2	Shepherds Bush Road	W6 7PD	Hammersmith	240	Exclusive	6 months+
+Studio	2	West End Lane	NW6 1UX	West Hampstead	240	inc + ct + elec	6 Months+
+Studio	1	Agar Grove	Nw1 9BT	Camden Town	240	inclusive	3 Months+
+Studio	2	Birkenhead Street	WC1H 8BA	Kings Cross	240	inc+elec+ct	6 Months+
+Studio	2	Kilburn High Road (twin)	NW6 5UA	Kilburn	240	inc + ct + elec	6 Months+
+Studio	2	Mysore Road	SW11	Clapham Common/ Clapham Junction	242	inc + ct + elec	6 Months+
+Studio	2	Castlenau	SW13	Castlenau/Barnes	242	exclusive	3 Months+
+Studio	2	Hanger Lane	W5 3HH	Ealing Common	242	inc + elec	6 Months+
+Studio	2	Castlenau (pics ex)	SW13	Castlenau/Barnes	242	exclusive	3 Months+
+Studio	2	Lillie Road (Wi Fi inc)2 available	SW6	West Brompton (brand new + W/M)	245	inclusive	6 Months+
+Studio	2 Westbourne Court	W2	Orsett Terrace	250	inc + elec	3 Months+
+Studio	2	Fulham Palace Road	W6	Hammersmith	250	inclusive	6 Months+
+Studio	2	Fellows Road	NW3	Swiss Cottage	250	inclusive	1 Year
+Studio	2	Second House	W1U	Green Park	250	exclusive	3 Months+
+Studio	1	Harrington gardens	SW7	Gloucester Road	250	inclusive	3 Months
+Studio	1	Wetherby Place	SW5	Gloucester Road (Flat for students)	250	inc + elec	1 Year
+Studio	1	Bina Gardens (until 15/9)	Sw7	Gloucester Road	250	inc + elec	3 Months
+Studio	1	Queensberry Place	SW7	South Kensington	250	inclusive	3 Months+
+Studio	1	Collingham road	SW7 0NT	Gloucester Road	250	inc + elec	6 Months+
+Studio	2	Iverson Road	NW6	West Hampstead	250	inc + ct + elec	6 Months+
+Studio	2	Talgarth Road	W14	West Kensington	250	inc + elec	6 Months+
+Studio	2	Talbot Road	W2 5LH	Bayswater	250	inc of water and heating	6 Months+
+Studio	2	Queensborough Terrace	W2 3SH	Bayswater	250	inc + elec	6 Months+
+Studio	2 St Petersburgh Place	W2	Bayswater	250	inc + ct + elec	3 Months+
+Studio	2	St Petrsburgh Place	W2	Bayswater	250	inclusive	3 Months+
+Studio	2	Hogarth Road	SW5	Earls Court	250	exclusive	6 Months+
+Studio	2	Sisters Avenue	SW11	Clapham Common/ Clapham Junction	250	inc + elec	6 Months+
+Studio	2	Sisters Avenue	SW11	Clapham Common/ Clapham Junction	250	inc + elec	6 Months+
+Studio	2	Birkenhead Street	WC1H 8BA	Kings Cross	250	inc+elec+ct	6 Months+
+Studio	2	Birkenhead Street	WC1H 8BA	Kings Cross	250	inc+elec+ct	6 Months+
+Studio	2	Finchley Road	NW3	Finchley Road	250	inclusive	6 Months+
+Studio	2	Craven Hill Gardens (vacant 15/9/2014)	W2	Bayswater	253	inc+elec	10 Months
+Studio	2	Lime Grove	W12 8EE	Shepherd&#39;s Bush	253	inc + ct	6 Months+
+Studio	2	Lime Grove	W12 8EE	Shepherd&#39;s Bush	253	inc + ct	6 Months+
+Studio	2	St Petersburgh Place	W2	Bayswater	253	inc + CT/elc	6 Months+
+Studio	2	Sisters Avenue	SW11	Clapham Common/ Clapham Junction	254	inc + ct + elec	6 Months+
+Studio	2	Kingsland Road	Dalston Kingsland	255	inclusive	6 Months+
+Studio	2	Shepherds Bush Road	W6 7PD	Hammersmith	255	Exclusive	6 months+
+Studio	2	Lillie Road (Wi Fi inc)2 available	SW6	West Brompton (brand new + W/M)	255	inclusive	6 Months+
+Studio	2	Craven Hill Gardens (vacant 15/9/2014)	W2	Bayswater	255	inc+elec	10 Months
+Studio	2	Hogarth Road	SW5	Earls Court	260	inclusive	6 Months+
+Studio	1	Bina Gardens	SW5	Gloucester Road (vacant 25/9 )	260	inc + elec	1 Year
+Studio	2	Talbot Road	W2 5LH	Bayswater	260	inc of water and heating	6 Months+
+Studio	2	Warren Street	Warren Street	260	inc + elec	6 Months+
+Studio	2	St Petersburgh Place	W2	Bayswater	260	inc + ct + elec	3 Months+
+Studio	2	Birkenhead Street	WC1H 8BA	Kings Cross	260	inc+elec+ct	6 Months+
+Studio	2	Birkenhead Street	WC1H 8BA	Kings Cross	260	inc+elec+ct	6 Months+
+Studio	1	Weatherby Place	SW7	Gloucester Road (vacant 25/9)	265	inc + elec	1 Year
+Studio	2	Queensborough Terrace	W2 3SH	Bayswater	265	inc + elec	6 Months+
+Studio	4	Park Way (roof terrace)	NW1 7AN	CamdenRegents Park	265	inc + ct + elec	6 Months+
+Studio	2	Roman Road	E2	BETHNAL GREEN	265	inc + ct + elec	6 Months+
+Studio	2	Pennard Road	W12	Shepherds Bush	265	inc + ct	6 Months+
+Studio	2	Birkenhead Street	WC1H 8BA	Kings Cross	265	inc+elec+ct	6 Months+
+Studio	2	Craven Hill Gardens (vacant 15/9/2014)	W2	Bayswater	265	inc+elec	10 Months
+Studio	2	Craven Hill Gardens	W2	Bayswater	265	inc+elec	10 Months
+Studio	2	Leinster Terrace	W2 3TB	Bayswater	270	inc + elec	3 Months+
+Studio	1	Weatherby Place	SW7	Gloucester Road (vacant 25/9)	270	inc + elec	1 Year
+Studio	1	Weatherby Place	SW7	Gloucester Road (vacant 25/9)	270	inc + elec	1 Year
+Studio	2	Edgware Road	Marble Arch	270	inc + elec	6 Months+
+Studio	2	Kentish Town Road	NW1 8NH	Camden	270	inc+elec+ct	3 Months+
+Studio	2	Fortune Green Road	NW6 1DH	West Hampstead	270	inc+elec+ct	6 Months+
+Studio	2	Blackburn Road	West Hampstead	270	inc+elec+ct	6 Months+
+Studio	2	Kilburn High Road	NW6 5UA	Kilburn	270	inc + ct + elec	6 Months+
+Studio	2	Gloucester Place	W1	baker Street	275	inclusive	6 Months+
+Studio	2	Queensborough Terrace	W2 3TB	Bayswater (twin studio)	275	inc + elec	6 Months+
+Studio	2	Earls Court Road (pics ex)	SW5	Earls Court	275	inclusive	1 Month+
+Studio	1	Harrington gardens (£290 for 2)	SW7	Gloucester Road	275	inclusive	3 Months
+Studio	1	Lillie Road (Wi Fi inc)2 available	SW6	West Brompton	275	inc + elec	6 Months+
+Studio	2	Pennard Road	W12 8DW	Shepherds Bush Market, Goldhawk Road	276	inc + ct	1 year
+Studio	2	Warbeck Road	W12	Shepherds Bush Market	276	inclusive	6 Months+
+Studio	2	Cravenhill Gardens	W2 3ES	Bayswater	277	inc+elec	10 Months
+Studio	2	Cravenhill Gardens (sep kitchen)	W2 3ES	Bayswater	277	inc + ct + elec	6 Months+
+Studio	2	West Cromwell Road	SW5 9QL	Earl&#39;s Court	280	inc+C Tax	6 Months+
+Studio	1	Weatherby Place	SW7	Gloucester Road (vacant 25/9)	280	inc + elec	1 Year
+Studio	1	Rosary Gardens	SW7	Gloucester Road	280	inc + elec	3 Months
+Studio	2	Kensington Garden Square	W2	Bayswater	280	inclusive	3 Months+
+Studio	2	Kensington Garden Square	W2	Bayswater	280	inclusive	3 Months+
+Studio	2	St Petersburgh Place	W2	Bayswater	280	inc + ct + elec	3 Months+
+Studio	2	Collingham road (available 1/9/14)	SW7 0NT	Gloucester Road	280	inc + elec	10 Months
+Studio	2	Queensberry Place	SW7	South Kensington	280	inclusive	3 Months+
+Studio	2	Collingham road	SW7 0NT	Gloucester Road	280	inc + elec	6 Months+
+Studio	2	West Cromwell Road	SW5	Earls Court	280	inc + ct	6 Months+
+Studio	2	Belgrave Road	SW1V	Pimlico	280	inc + ct	6 Months+
+Studio	1	Queensborough Terrace	W2	Bayswater	285	inc + ct	3 Months+
+Studio	2	Penywern Road	SW5 9SX	Earl&#39;s Court	285	inclusive	6 Months+
+Studio	1	Weatherby Place	SW7	Gloucester Road (vacant 25/9)	285	inc + elec	1 Year
+Studio	2	Inverness Terrace	W2	Bayswater	285	inc + elec	3 Months+
+Studio	2	Penywern Road	SW5 9SX	Earl&#39;s Court	285	inc+C Tax	6 Months+
+Studio	2	Blackburn Road	West Hampstead	285	inc+elec+ct	6 Months+
+Studio	2	Fairholme Road	W14 9JZ	West Kensington	285	inc + ct	6 Months+
+Studio	2	Fairholme Road	W14 9JZ	West Kensington	285	inc + ct	6 Months+
+Studio	2	Fairholme Road	W14 9JZ	West Kensington	285	inc + ct	6 Months+
+Studio	2	Finchley Road	NW3 7AJ	Finchley Road	285	inclusive	6 Months+
+Studio	2	Leinster Gardens	W2	Bayswater	285	inc + elec	6 Months+
+Studio	2	Craven Hill Gardens	W2	Bayswater	288	inc+elec	10 Months
+Studio	2	Old Brompton Road	SW5	South Kensington	289	inclusive	6 Months+
+Studio	2	Old Brompton Road	SW6 1RX	Earls Court	290	inclusive	1 Month+
+Studio	2	Kensington Garden Square	W2	Bayswater	290	inclusive	3 Months+
+Studio	2	Old Brompton Road	SW5	Earls Court	290	inclusive	3 Months+
+Studio	2	Stoneleigh Place	W11	Holland Park	295	inclusive	6 Months+
+Studio	Queensborourgh Terrace	W2 3TB	Bayswater	300	inc + elec	3 Months+
+Studio	2	Queens Court, Queensway	W2	Bayswater	300	inclusive	6 Months+
+Studio	2	West Cromwell Road	SW5 6DR	Earl&#39;s Court	300	inc+C Tax	6 Months+
+Studio	2	Wetherby Place	SW5	Gloucester Road (Flat for students)	300	inc + elec	1 Year
+Studio	1	Wetherby Place	SW5	Gloucester Road (Flat for students)	300	inc + elec	1 Year
+Studio	1	Collingham Road	SW5 0NT	Gloucester Road/Earls Court	300	inc + elec	6 Months+
+Studio	2	Flood Street, Chelsea	SW3	Sloane Square	300	inc + elec	6 Months+
+Studio	2	Queensborough Terrace	W2	Bayswater (twin studio)	300	inc + elec	6 Months+
+Studio	2	Glendower Place	SW7	South Kensington	300	inclusive	2 Weeks+
+Studio	2	Cravenhill Gardens	W2 3ES	Bayswater	300	inc+elec	6 Months+
+Studio	2 Park West Place	Edgware Road	300	inc + ct + elec	6 Months+
+Studio	2	Warren Street	N10	Warren Street	300	inc + elec	6 Months+
+Studio	2	Queensborough Terrace	W2	Bayswater	300	inc + ct + elec	3 Months+
+Studio	2	Craven Hill Gardens	W2	Bayswater	300	inclusive	6 Months+
+Studio	2	Warwick Road	SW5	Earls Court	300	inclusive	1 Month+
+Studio	2	St Petersburgh Place	W2	Bayswater	300	inclusive	3 Months+
+Studio	2	Shepherds Bush Road	Shepherds Bush	300	inc + ct + elec	6 Months+
+Studio	2	West End Lane	NW6 1UX	West Hampstead	300	inc + ct + elec	6 Months+
+Studio	2	Queensborough Terrace	W2 3TB	Bayswater	300	inc + elec	6 Months+
+Studio	2	Queensway	W2	Bayswater	300	inc + elec	6 Months+
+Studio	2	Collingham Road	SW5	Gloucester Road	300	inc + ct	6 Months+
+Studio	2	Birkenhead Street	WC1H 8BA	Kings Cross	300	inc+elec+ct	6 Months+
+Studio	2	Collingham road	SW7 0NT	Gloucester Road	300	inc + elec	6 Months+
+Studio	2	Belgrave Road	SW1V 3AX Pimlico	300	inclusive	6 Months+
+Studio	2	Leinster Gardens	W2	Bayswater	300	inc + elec	6 Months+
+Studio	2	Craven Hill Gardens	W2	Bayswater	300	inclusive	3 Months+
+Studio	2	Queensborough Terrace	W2	Bayswater	310	inc + ct	3 Months+
+Studio	1	Bina Gardens	SW5	Gloucester Road (available 30/9)	310	inc + elec	6 Months+
+Studio	2	Collingham road (available 1/9/14)	SW7 0NT	Gloucester Road	310	inc + elec	10 Months
+Studio	2	Willoughby (1 month to 3 years let)	WC1	Tottenham Court Road	310	inclusive	1 Month+
+Studio	2	Cravenhill Gardens	W2 3ES	Bayswater	312	inc+elec	3 Months+
+Studio	2	Warren Court, Euston Road	NW1	Euston	320	inclusive	6 Months+
+Studio	2	Old Brompton Road	SW5	South Kensington	320	inclusive	6 Months+
+Studio	1	Bina Gardens	SW5	Gloucester Road (available 25/9)	320	inc + elec	6 Months+
+Studio	2	Lexham Gardens (seperate bedroom area)	W8	High Street Kensington	320	inc + elec	6 Months+
+Studio	2	Emperor&#39;s Gate	SW7 Gloucester Road	320	inc + elec	1 Month+
+Studio	2	Elsham Road	W14	Kensington Olympia	320	inclusive	3 Months+
+Studio	2	Craven Hill Gardens	W2	Bayswater	320	inclusive	6 Months+
+Studio	2	Willoughby Street	WC1A 1JD	Holborn	320	inclusive	3 Months+
+Studio	2	Willoughby Street	WC1A 1JD	Holborn	320	inclusive	3 Months+
+Studio	2	Kensington Garden Square	W2	Bayswater	320	inclusive	3 Months+
+Studio	2	Howitt Road	NW3 4LT	Belsize Park	320	inc + ct + elec	6 Months+
+Studio	2	Collingham road	SW7 0NT	Gloucester Road	320	inc + elec	6 Months+
+Studio	2	Edgware Road	W2	Paddington	320	inclusive	6 Months+
+Studio	1	Queensborough Terrace	W2	Bayswater	325	inc + ct	3 Months+
+Studio	2	Marchmont Street	Russell Square	325	inc + ct + elec	3 Months+
+Studio	2	Penywern Road	SW5 9SX	Earl&#39;s Court	330	inc+C Tax	6 Months+
+Studio	2	Craven Hill Gardens	W2	Bayswater	330	inclusive	6 Months+
+Studio	2	Gloucester Street	SW1V 2DB	Pimlico	330	inc + ct	6 Months+
+Studio	2	Leinster Gardens	W2	Bayswater	330	inc + elec	6 Months+
+Studio	2	Westbourne Park	W11	Notting Hill Gate	330	inc + ct	6 Months+
+Studio	2	Penywern Road	SW5	Earls Court	330	inc + ct	6 Months+
+Studio	2	Queensberry Place	SW7	South Kensington	340	inclusive	3 Months+
+Studio	2	Abbey Orchard Street	Victoria	345	inc + ct + elec	6 Months+
+Studio	2	Linden Gardens	W2	Notting Hill	345	inclusive	6 Months+
+Studio	2	Linden Gardens	W2 4JJ	Notting Hill	345	inclusive	6 Months+
+Studio	2	Glendower Place	SW7	South Kensington	350	inclusive	2 Weeks+
+Studio	2	Kensal Road	Kensal Green	350	inc + ct + elec	6 Months+
+Studio	2	Marchmont Street	Russell Square	350	inc + ct + elec	3 Months+
+Studio	2	Princes Square	W2	Bayswater	350	inc + elec	3 Months+
+Studio	2	Penywern Road	SW5 9SX	Earl&#39;s Court	350	inc+C Tax	6 Months+
+Studio	2	West Cromwell Road	SW5 6QL	Earl&#39;s Court	350	inc+C Tax	1 Month+
+Studio	2	Birkenhead Street	WC1H 8BA	Kings Cross	350	inc+elec+ct	6 Months+
+Studio	2	Blackburn Road	West Hampstead	350	inc+elec+ct	6 Months+
+Studio	2	Fairholme Road	W14 9JZ	West Kensington	350	inc + ct	6 Months+
+Studio	2	Leinster Gardens	W2	Bayswater	350	inc + elec	3 Months+
+Studio	3	Knarsborough Place	SW5	Gloucester Road	350	inclusive	2 Weeks+
+Studio	2	Marchmont Street	Russell Square	360	inc + ct + elec	3 Months+
+Studio	2	Marchmont Street	Russell Square	360	inc + ct + elec	3 Months+
+Studio	2	West End Lane	NW6 1PH	West Hampstead	365	inclusive	6 Months+
+Studio	2	Linden Gardens	W2 4HD	Notting Hill	375	inclusive	6 Months+
+Studio	2	Golden Square	W2 4DJ	Piccadilly Circus	380	inclusive	2 Weeks+
+Studio	2	Golden Square	W2 4DJ	Piccadilly Circus	400	inclusive	2 Weeks+
+Studio	2	Penywern Road	SW5 9SX	Earl&#39;s Court	400	inc+C Tax	1 Month+
+Studio	2	Old Brompton Road	SW5	South Kensington	420	inclusive	6 Months+
+Studio	2	Linden Gardens	W2 Notting Hill	375	inclusive	6 Months+
+Studio	2	Inverness Terrace	W2	Bayswater	500	inc + elec	3 Months+
+Studio	2	Onslow Gardens	SW7	South Kensington	500	inclusive	2 Weeks+
+Studio	2	Holland Park Avenue	W11	Nottinghill Gate	500	inc + elec	3 Months+
+Studio	2	Paddington Green	W2	Paddington	500	inc + elec	3 Months+
+Studio	2	Princes Square	Bayswater	500	inc + elec	3 Months+
+1 Bed Flat	2	Barking Road	E13	Plaistow	220	inclusive	6 Months+
+1 Bed Flat	1M	Evelyn Gardens (couple ok for short period)	SW7 3BJ	Gloucester Road	230	inclusive	2 Weeks+
+1 Bed Flat	2	Cavendish Road	SW11	Clapham South	245	inc + elec	6 Months+
+1 Bed Flat	4	Horn Lane	W30BU	North Acton	250	exclusive	1 year
+1 Bed Flat	2	Sheldon Road	NW2	Cricklewood	253	inc + elec	6 Months+
+1 Bed Flat	2	Selby Court, Manor Road	TW2 5DG	Twickenham	255	inc + ct + elec	6 Months+
+1 Bed Flat	2	Church Road	SW	Richmond	260	exclusive	6 Months+
+1 Bed Flat	2	Harrow Road	W11	Westbourne Park	260	inc + ct + elec	6 Months+
+1 Bed Flat	2	Milson Road	W12	Shepherd&#39;s Bush	270	inclusive	6 Months+
+1 Bed Flat	2	Clanricarde Gardens	W2	Nottinghill Gate	270	inc + ct	6 Months+
+1 Bed Flat	2	Castlenau	SW13 9RT	Castlenau/Barnes	276	exclusive	3 Months+
+1 Bed Flat	2	Harrow Road	W9 3NF	Westbourne Park	277	exclusive	1 year
+1 Bed Flat	2	High Street (9 new flats available)	W3	Acton/Shepherds Bush	280	exclusive	6 Months+
+1 Bed Flat	2	Mirabel Road	Parsons Green	280	exclusive	6 Months+
+1 Bed Flat	2	Goldhawk Road	W12 8HA	Shepherds Bush	285	exclusive	6 Months+
+1 Bed Flat	2	Rigault Road	Putney	290	inc + elec	6 Months+
+1 Bed Flat	4	Brixton	W2	Brixton	295	exclusive	6 Months+
+1 Bed Flat	2	Orsett Terrace	W2	Paddington	300	inc + ct + elec	6 Months+
+1 Bed Flat	2	Grays Inn Road	WC1X	King&#39;s Cross	300	inc + elec	6 Months+
+1 Bed Flat	2	Booth Road	E16	300	inc + ct + elec	6 Months+
+1 Bed Flat	2	Chatsworth Road	E5 Homerton	300	inc + ct + elec	6 Months+
+1 Bed Flat	2	Westmorland Terrace(viewing mid sep	SW1	Pimlico (open space at back)	300	inc + elec	6 Months+
+1 Bed Flat	2	Kilburn High Road	NW2 7DG	Kilburn	300	inc + elec	3 Months+
+1 Bed Flat	2	Ravensmede Way	W4	Stamford Brook	300	inc + elec	6 Months+
+1 Bed Flat	2	Cravenhill Gardens	W2 3ES	Bayswater	300	inc+elec	6 Months+
+1 Bed Flat	2	Cravenhill Gardens	W2 3ES	Bayswater	300	inc+elec	6 Months+
+1 Bed Flat	2	Cravenhill Gardens	W2 3ES	Bayswater	300	inc+elec	6 Months+
+1 Bed Flat	2	Cravenhill Gardens	W2 3ES	Bayswater	300	inc+elec	6 Months+
+1 Bed Flat	2	Lanhill Road	W9 2BS	Maida Vale	300	+20pw	6m+
+1 Bed Flat	2	Daffodil Road	W12	Shepherds Bush	310	inc + ct + elec	6 Months+
+1 Bed Flat	2	Goldhawk Road	W12	Shepherd&#39;s Bush	312	inclusive	6 Months+
+1 Bed Flat	2	Chalton Street	NW1 1RB	Euston/ Kings Cross	315	exclusive	6 Months+
+1 Bed Flat	2	Bethnal Green	Bethnal Green	315	exclusive	6 Months+
+1 Bed Flat	2	Church Road	320	inc + ct + elec	6 Months+
+1 Bed Flat	2	Cheniston Gardens	W8	High Street Kensington	320	inc + ct + elec	6 Months+
+1 Bed Flat	2	Camden Road	N7	Holloway Road	320	inc + ct + elec	6 Months+
+1 Bed Flat	2	Edgware Road	W2	Edgware Road	320	inclusive	6 Months+
+1 Bed Flat	2	St Petersburgh Place	W2	Bayswater	320	inc + elec	3 Months+
+1 Bed Flat	2	Margravine Gardens	W6 9ST	Barons Court	323	inclusive	6 Months+
+1 Bed Flat	2	Greyhound Road	W6	Barons Court	323	inc + elec	6 Months+
+1 Bed Flat	2	Redmore Road	W6	Ravenscourt Park	323	inc + elec	6 Months+
+1 Bed Flat	2	Cravenhill Gardens	W2 3ES	Bayswater	323	inc+elec	6 Months+
+1 Bed Flat	2	Cravenhill Gardens	W2 3ES	Bayswater	323	inc+elec	6 Months+
+1 Bed Flat	2	Cravenhill Gardens	W2 3ES	Bayswater	323	inc+elec	6 Months+
+1 Bed Flat	2	Cravenhill Gardens	W2 3ES	Bayswater	323	inc+elec	6 Months+
+1 Bed Flat	2	Mornington Crescent	NW1	Mornington Crescent	325 exclusive	6 Months+
+1 Bed Flat	2	West Hampstead Mews	NW6 3BB	West Hampstead	325	inc+elec+ct	3 Months+
+1 Bed Flat	2	Cheniston Gardens	W8	High Street Kensington	330	inc + ct + elec	6 Months+
+1 Bed Flat	2	Molyneux	Edgware Road	335	inc + ct + elec	6 Months+
+1 Bed Flat	2	West End Lane	NW6 1PH	West Hampstead	345	inclusive	6 Months+
+1 Bed Flat	2	Riven Court	W2	Bayswater	346	inc+elec	6 Months+
+1 Bed Flat	2	Henderson Drive, St Johns Wood Road	St Johns Wood	350	inc + ct + elec	6 Months+
+1 Bed Flat	2	Orsett Terrace	W2	Bayswater	350	inc + ct + elec	6 Months+
+1 Bed Flat	2	Westbourne Gardens	Royal Oak	350	inc + ct + elec	6 Months+
+1 Bed Flat	2	Strathmore Court, Park Road	NW8	St Johns Wood	350	exclusive	3 Months+
+1 Bed Flat	2	Howitt Road	NW3 4LT	Belsize Park	350	inc + ct + elec	6 Months+
+1 Bed Flat	2	Cleveland Gardens	W2	Bayswater	350	inclusive	3 Months+
+1 Bed Flat	2	Chalton Street	Euston	360	inc + ct + elec	6 Months+
+1 Bed Flat	2	Holland Park	W14	Kensington Olympia / Shepherds Bush	360	inc + ct + elec	6 Months+
+1 Bed Flat	2	St Johns Wood Road	St Johns Wood	369	inc + elec	6 Months+
+1 Bed Flat	2	Perham Road	W14 9SS	West Kensington	369	exclusive	1 Year
+1 Bed Flat	2	Cravenhill Gardens	W2 3ES	Bayswater	370	inc+elec	6 Months+
+1 Bed Flat	2	Cravenhill Gardens	W2 3ES	Bayswater	370	inc+elec	6 Months+
+1 Bed Flat	2	Cravenhill Gardens	W2 3ES	Bayswater	370	inc+elec	6 Months+
+1 Bed Flat	2	Cravenhill Gardens	W2 3ES	Bayswater	370	inc+elec	6 Months+
+1 Bed Flat	2	Wellesley Mansions, Edith Villas	W14	West Kensington	372	inclusive	6 Months+
+1 Bed Flat	2	Inverness Terrace	Bayswater	375	inc + ct + elec	6 Months+
+1 Bed Flat	2	west Kensington	West Kensington	375	inc + ct + elec	6 Months+
+1 Bed Flat	2	Boston Place	NW1	Marylebone	395	exclusive	6 Months+
+1 Bed Flat	2	Blackburn Road	West Hampstead	395	inc+elec+ct	6 Months+
+1 Bed Flat	2	Collingham Road	SW7 Gloucester Road	400	inc + elec	6 Months+
+1 Bed Flat	2	Weatherby Place	SW7	Gloucester Road	400	inc + elec	1 Year
+1 Bed Flat	2	White Horse Street	W1 7LQ	Green Park	400	INCLUSIVE	3 Months+
+1 Bed Flat	2	Cleveland Gardens	W2 6DE	Bayswater/Paddington	410	inclusive	6 Months+
+1 Bed Flat	2	Euston Road	NW1	Euston	420	inclusive	6 Months+
+1 Bed Flat	1	Bina Gardens	SW7	Gloucester Road	420	inc + elec	1 Year
+1 Bed Flat	2	Oakley Street	SW3 5NR	South Kensington	420	inc + elec	6 Months+
+1 Bed Flat	2	Pembridge e Road	W2	Notting Hill Gate	420	inc + ct + elec	3 Months+
+1 Bed Flat	2	Gloucester Road	SW7	Gloucester Road	425	inc + ct + elec	6 Months+
+1 Bed Flat	2	Walton Street	SW7	South Kensington	430	inc + ct + elec	6 Months+
+1 Bed Flat	2	Chadwell Street	Angel	440	inc+elec+ct	6 Months+
+1 Bed Flat	2	Loudoun Road	NW3	Swiss Cottage	445	inclusive	3 Months+
+1 Bed Flat	2	Leinster Terrace	W2 3ET	Bayswater	450	inc + elec	3 Months+
+1 Bed Flat	2 Cromwell Road	SW7	Gloucester Road	450	inc + elec	3 Months+
+1 Bed Flat	2	Great Cumberland Place	Marble Arch	460	inc + ct + elec	6 Months+
+1 Bed Flat	2	Willoughby Road	NW6	Hampstead	465	inc+elec+ct	6 Months+
+1 Bed Flat	2	Inverness Terrace, Riven Court	W2 3LD	Bayswater	480	exclusive	1 Month+
+1 Bed Flat	2	Inverness Terrace	W2 3LD	Bayswater	480	inc + elec	3 Months+
+1 Bed Flat	2	Chelsea Cloisters	SW7	South Kensington	480	inclusive	1 Month+
+2 Bed Flat	4	Chiswick High Road	W4	Stamford Brook	480	inc + ct	3 Months+
+1 Bed Flat	2	Queensgate	SW7	South Kensington	485	inclusive	6 Months+
+1 Bed Flat	4	High Street	E15	Stratford	492	inc + ct + elec	6 Months+
+1 Bed Flat	2	Kensington Church St	W8	Notting Hill Gate	500	exclusive	1 Month+
+1 Bed Flat	2	Queensborough Terrace	W2	Bayswater	500	exclusive	1 Month+
+1 Bed Flat	2	Queensbourgh Terrace	W2	Bayswater	500	inc + elec	3 Months+
+1 Bed Flat	2	Ivor Court	NW1	Baker Street	500	inc + elec	3 Months+
+1 Bed Flat	2	Cromwell Road	SW7	Gloucester Road	500	inc + elec	3 Months+
+1 Bed Flat	1	Queensgate	SW7	South Kensington	510	inclusive	6 Months+
+1 Bed Flat	2	Willoughby (1 month to 3 years let)	WC1	Tottenham Court Road	510	inclusive	1 Month+
+1 Bed Flat	2	Hornton Street	W8 4NR	High Street Kensington	520	inc + elec	6 Months+
+1 Bed Flat	2	Weatherby Place	SW7	Gloucester Road	525	inc + elec	1 Year
+1 Bed Flat	2	The Baynards, Chepstow Place	W2	Bayswater	530	exclusive	6 Months+
+1 Bed Flat	2	Willoughby Street	WC1A 1JD	Holborn	550	inclusive	3 Months+
+1 Bed Flat	2	Queensgate	SW7	South Kensington	550	inclusive	6 Months+
+1 Bed Flat	2	Inverness Terrace	W2 3LD	Bayswater	550	inc + elec	3 Months+
+1 Bed Flat	2	Reeves Mews - Mayfair	W1K 2EF	Green Park	600	inc + elec	6 Months+
+1 Bed Flat	2	Shaftesbury Avenue	WC2H 8J	Covent Garden	621	exclusive	
+2 Bed Flat	4	Bolton Street	W1	Green Park	1000	inc + ct + elec	6 Months+
+2 Bed Flat	2 Cavendish building, Gilbert St	Bond St	1000	inc+elec+CT	3 Months+
+2 Bed Flat	4	Sullivan Court	SW5 9RP	Earls Court	1000	inc + elec	2 Weeks+
+2 Bed Flat	4	Queensborough Terrace	W2	Bayswater	1000	inc + elec	6 Months+
+2 Bed Flat	4	Queensborough Terrace	W2 3TB	Bayswater	1000	inc + elec	6 Months+
+2 Bed Flat	4	Gloucester Terrace	W2 3HB	Near Hyde Park	1000	inc + elec	2 Weeks+
+2 Bed Flat	4	The Pavillian Apartment	W2	Regents park	1700	exclusive	1 Month+
+2 Bed Flat	4	Braynston House ,Dorset Street	W1	Baker st	1700	exclusive	1 Month+
+2 Bed Flat	4	Maida Vale	W9	Maida Vale	2000	inc + ct + elec	3 Months+
+2 Bed Flat	3	Hampton Wick	KT14DG	Kingston	265	exclusive	6 Months+
+2 Bed Flat	4	Plaschet Road	E13	Stratford	265	exclusive	6 Months+
+2 Bed Flat	2	Chamberlayne Road (viewing from 24 Sept)	NW10 3JP	Kensal Rise	323	exclusive	6 Months+
+2 Bed Flat	3	Shirehall Gardens	NW4 2QS	Brent Cross or Hendon Central	300	inc + ct + elec	6 Months+
+2 Bed Flat	3	Hillfield Park	N10 3QU	Muswell Hill	300	inc + ct + elec	6 Months+
+2 Bed Flat	4	High Road	N22	Wood Green	300	inc + elec	6 Months+
+2 Bed Flat	4	The Crest	NW4 2HL	Hendon	300	exclusive	6 Months+
+2 Bed Flat	6	Pickering Road	1G1 RNG	Barking	300	exclusive	6 Months+
+2 Bed Flat	4	Hill Field Park (Garden +storage basement)	N10	Muswell Hill	306	inc + ct + elec	6 Months+
+2 Bed Flat	4	Shepherds Bush Road	W6 7PJ	Shepherd&#39;s Bush	315	exclusive	1 year
+2 Bed Flat	4	Whittington Mews	N12	Woodside Park	323	inc + elec	6 Months+
+2 Bed Flat	2	Argyle Road	W13 0LW	Ealing	325	Exclusive	6 months+
+2 Bed Flat	4	St Ann&#39;s Road	N15	Harringay	325	inc + elec	6 Months+
+2 Bed Flat	4	Wharfside Point South, Prestons Road	E14	Canary Wharf	330	inclusive	6 Months+
+2 Bed Flat	4	Tollington Park	N4	Finsbury Park	330	inc + elec	6 Months+
+2 Bed Flat	4	Shaa Road	W3	Acton Central	334	inclusive	3 Months+
+2 Bed Flat	4	Hanover Court, Uxbridge Road,	W12 9EP	Shepherds Bush	335	inclusive	1 year
+2 Bed Flat	4	Woking Close	SW15	Barnes	340	exclusive	6 Months+
+2 Bed Flat	2	Hornsey Road	N19	Archway	340	inc + elec	6 Months+
+2 Bed Flat	2	Hornsey Road	N19	Archway	345	inc + elec	6 Months+
+2 Bed Flat	4	Macfarlane Road	W12 7JY	Shepherd&#39;s Bush	345	exclusive	1 year
+2 Bed Flat	4	Shepherds Bush Road	W6 7PJ	Shepherds Bush	345	inclusive	1 year
+2 Bed Flat	2	Shepherd&#39;s Bush Road	W6 7PH	Hammersmith	350	exclusive	6 Months+
+2 Bed Flat	4	Kennington Lane	SE11	Kennington	350	exclusive	6 Months+
+2 Bed Flat	4	King Street	W6	Hammersmith	350	exclusive	6 Months+
+2 Bed Flat	2	Malvern Road	Maida vale	375	inc + ct + elec	6 Months+
+2 Bed Flat	2	Maltings Place	Fulham	380	inclusive	6 Months+
+2 Bed Flat	4	Compain Gardens, Iverson Road	NW6	West Hampstead	380	exclusive	6 Months+
+2 Bed Flat	4	St Marks Rise	E5	Homerton	380	inc + ct + elec	6 Months+
+2 Bed Flat	4	Roman Road	E2 Bethnal Green	380	inc + ct + elec	6 Months+
+2 Bed Flat	4	Tottenham Road	N1 4DB	Dalston	380	inc + ct + elec	6 Months+
+2 Bed Flat	2	Beaconsfield Terrace Road,	Kensington/Olympia	390	inc + ct + elec	6 Months+
+2 Bed Flat	4	Uxbridge Road	W12 9EP	Shepherds Bush	395	inc + elec	6 Months+
+2 Bed Flat	4	Chalk Farm / Camden	NW	Chalk Farm / Camden	395	exclusive	6 Months+
+2 Bed Flat	3	Kenworthy Road	E9	Homerton	400	inc + ct + elec	6 Months+
+2 Bed Flat	3	St. Marks Rise	E8	Dalston	400	inc + ct + elec	6 Months+
+2 Bed Flat	4	Kingsley Mews	400	inc + ct + elec	6 Months+
+2 Bed Flat	4	Loftus Road	W12	Shepherds Bush	400	inc + elec	6 Months+
+2 Bed Flat	4	Compayne Gardens	NW6	West Hampstead	415	inc + elec	6 Months+
+2 Bed Flat	4	Kingsley Mews	415	inc + ct + elec	6 Months+
+2 Bed Flat	4	Godolphin Road	W12	Shepherds Bush	415	exclusive	6 Months+
+2 Bed Flat	2	Anslem Road	SW6	Fulham	415	inc + ct + elec	6 Months+
+2 Bed Flat	1	Weatherby Place SW7	Gloucester Road (vacant 25/9)	425	inc + elec	1 Year
+2 Bed Flat	2	Glenthore Road	SW6	Hammersmith	425	inc + ct + elec	6 Months+
+2 Bed Flat	2	Holland Road, Kensington	W14	Kensington	430	inclusive	6 Months+
+2 Bed Flat	2	Royal College St	NW1	Camden Town	450	#NAME?	flex
+2 Bed Flat	3	Emperors Gate (just 2 months let)	SW7	Gloucester Road	450	inc + elec	2 Months
+2 Bed Flat	4	Lillie Road (inc wifi)	SW6	West Brompton	450	exclusive	6 Months+
+2 Bed Flat	4	Craven Road	W2	Lancaster Gate	450	inc + ct + elec	6 Months+
+2 Bed Flat	4	Priory Lodge, Kew Bridge Court	W4 3AZ	Shepherds Bush	450	inc + ct + elec	1 year
+2 Bed Flat	4	Gloucester Terrace	W2 6HP	,Bayswater,	450	inc + ct + elec	1 year
+3 Bed Flat	6	Roseford Ct, Shepherds Bush Gr	W12 8RA	Shepherds Bush	450	inc + ct + elec	1 year
+2 Bed Flat	2	Windsor Road	W5	Ealing	475	inclusive	6 Months+
+2 Bed Flat	4	Westbourne Terrace	W2	Paddington	480	inc + ct + elec	6 Months+
+2 Bed Flat	4 Claverton Street	SW1V 3AU	Pimlico	480	+ 20 bills	6 Months+
+2 Bed Flat	4	Great Cumberland Place	Oxford Street	490	inc + ct + elec	6 Months+
+2 Bed Flat	4	Putney Hill	SW15	Putney Bridge	490	inc + ct + elec	6 Months+
+2 Bed Flat	4	Boardwalk Place	E14	Docklands	500	inc + ct + elec	6 Months+
+2 Bed Flat	4	Earls Court Road	SW5	Earls Court	500	exclusive	6 Months+
+2 Bed Flat	4	Leinster Gardens	W2	Bayswater	500	inc + ct + elec	3 Months+
+2 Bed Flat	6	Warwick Road	SW5	Earls Court	500	inclusive	1 Month+
+2 Bed Flat	2	Kew Bridge Road	W4	Chiswick	505	exclusive	6 Months+
+2 Bed Flat	4	Cravenhill Gardens	W2 3ES	Bayswater	507	inc+elec	6 Months+
+2 Bed Flat	4	Craven Hill Garden	W2	Bayswater	507	inc+elec	6 Months+
+2 Bed Flat	4	High Street	E15	Stratford	512	inc + ct + elec	6 Months+
+2 Bed Flat	4	Queensway	W2	Queensway	550	inc + ct + elec	6 Months+
+2 Bed Flat	4	Cravenhill Gardens (2 bathrooms)	W2 3ES	Bayswater	550	inc+elec	6 Months+
+2 Bed Flat	2	Mattock Lane	W5	Ealing	575	exclusive	6 Months+
+2 Bed Flat	4	Luxemborough House	575	inclusive	3 Months+
+2 Bed Flat	2	Queensgate	SW7	South Kensington	575	inc + ct	6 Months+
+2 Bed Flat	4	Riven Court	W2	Bayswater	577	inc+elec	6 Months+
+2 Bed Flat	4	Dorset Square	Oxford Street	580	inc + ct + elec	6 Months+
+2 Bed Flat	3	Queensgate	SW7	South Kensington	600	inc + ct	6 Months+
+2 Bed Flat	4	Seymour Place	W1	Oxford Street	600	inc + ct + elec	3 Months+
+2 Bed Flat	4	Notting Hill Gate	W11	Notting Hill Gate	600	inclusive	1 Month+
+2 Bed Flat	2	Wetherby Place	SW5	Gloucester Road (Flat for students)	620	inc + elec	10 Months
+2 Bed Flat	2	Portobello Apartments, Harrow Road	W10	Notting Hill	625	exclusive	6 Months+
+2 Bed Flat	4	Bayswater	W2	Bayswater	650	exclusive	6 Months+
+2 Bed Flat	3	Discovery Dock East	E14	Docklands	650	inc + ct + elec	6 Months+
+2 Bed Flat	4	Dereham Place	EC2	Shoreditch	665	inc + ct + elec	6 Months+
+2 Bed Flat	2	Strathmore Court, Park Road	Nw8	St Johns Wood	690	exclusive	3 Months+
+2 Bed Flat	4	Fulham Road	SW3 6SN	Chelsea, South Kensington	700	exclusive	6 Months+
+2 Bed Flat	4	Freshwater court, Crawoford St	W1	Baker Street	750	exclusive	1 Month+
+2 Bed Flat	4	Arthur Court	W2	Queensway	800	exclusive	1 Month+
+2 Bed Flat	4	Merchant Square	W2	Paddington W2	850	inc + ct + elec	6 Months+
+2 Bed Flat	2	Cavendish building, Gilbert St	Bond St	850	inc+elec+CT	3 Months+
+2 Bed Flat	4	Peony Court, Park Walk	SW10 0AJ	Gloucester Road	870	Exclusive	1 year
+2 Bed Flat	4	Great portland st	W1	Oxford circus	900	exclusive	1 Month+
+3 Bed Flat	6	Brompton Road	SW1	Knightsbridge	1100	inc + ct + elec	6 Months+
+3 Bed Flat	6	The Colonnades	W2 6AS	Porchester Sq	1200	exclusive	3 Months+
+3 Bed Flat	2	Worcster House , Hallfield estates	W2	Bayswater	1200	inclusive	6 Months+
+3 Bed Flat	5	Ivy Lodge	W11 3QS	Hyde Park	1200	inc + elec	2 Weeks+
+3 Bed Flat	5 Princes Gate	SW7 2QA	Knightsbridge	1500	inc + elec	2 Months+
+3 Bed Flat	5	Queens Gate Terrace	SW7 5PF	High Street Kensington	1500	inc + elec	2 Weeks+
+3 Bed Flat	6	Peony Court, Park Walk	SW10 0AJ	Gloucester Road	1700	Exclusive	1 year
+3 Bed Flat	5	Reeves Mews - Mayfair	W1K 2EF	Green Park	1750	inc + elec	1 Month+
+3 Bed Flat	1	Gibralter Walk, Brick Lane	EC1	Liverpool Street	600	exclusive	2 Weeks+
+3 Bed Flat	5	Edmonton	N9 8NP	Edmonton	300	inc + ct + elec	6 Months+
+3 Bed Flat	6	Baring Road	EN4	Cockfosters	346	inc + elec	6 Months+
+3 Bed Flat	6	Hans Place	SW1X 0EP	Knightsbridge	3500	inc + elec	3 Months+
+3 Bed Flat	6	Church Road	NW10	Neasden	350	inclusive	6 Months+
+3 Bed Flat	5	Clapton	E5	Clapton	360	inc + ct + elec	6 Months+
+3 Bed Flat	4	Gunnersbury Lane	W4	Chiswick	420	exclusive	6 Months+
+3 Bed Flat	5	Hackney	E5	Hackney	420	inc + ct + elec	6 Months+
+3 Bed Flat	6	Willesden Green	NW2	Willesden Green	425	inc + elec	6 Months+
+3 Bed Flat	6	Kensal Green	NW10	Kensal Green	425	exclusive	6 Months+
+3 Bed Flat	4	Marshfield Street	E14	Crossharbour	440	inc + ct + elec	6 Months+
+3 Bed Flat	6	Seven Sisters Road	N7	Finsbury Park	440	inc + elec	6 Months+
+3 Bed Flat	3	Salmon Lane	E14	Limehouse	450	inc + ct + elec	6 Months+
+3 Bed Flat	5	Kennington	SE17 3LZ	Kennington	450	inc + ct + elec	6 Months+
+3 Bed Flat	6	Pennard Road	W12 8DS	Shepherds Bush	450	Exclusive	1 year
+3 Bed Flat	6	Shepherds Ct, Shepherds Bush Gr	W12 8PN	Shepherds Bush	450	inc + ct + elec	1 year
+3 Bed Flat	6	Fairfield Gardens	N8	Harringay	450	inc + elec	6 Months+
+3 Bed Flat	4	Deauvoir Road	N1 5TB	Haggerston/Hoxton	470	exclusive	6 Months+
+3 Bed Flat	6	Pennard Road	W12 8DS	Shepherds Bush	475	Exclusive	1 year
+3 Bed Flat	5	Sisters Avenue (sample pic of landlord property)	SW11	Clapham Common/ Clapham Junction	485	inc + ct + elec	6 Months+
+3 Bed Flat	4	Carmen Street	E14	Langdon park	485 inc + ct + elec	6 Months+
+3 Bed Flat	6	Manchester Court	E16	Custom House	500	inc + ct + elec	6 Months+
+3 Bed Flat	4	Penywern Road	SW5 9TT	Earls Court	540	inc + ct + elec	10 Months
+3 Bed Flat	6	Pimlico	SW1	Pimlico	550	exclusive	6 Months+
+3 Bed Flat	2	Furness Road	SW6	Fulham Broadway	550	inc + ct + elec	6 Months+
+4 Bed Flat	8	Brownsfield Road	E14 6NE	Lime House	560	exclusive	6 Months+
+3 Bed Flat	6	Morris Road	E14	Langdon Park	570	inc + ct + elec	6 Months+
+3 Bed Flat	3	Palmers Road	E2	Bethnal Green	590	inc + ct + elec	6 Months+
+3 Bed Flat	2	Sevington Street	W9	Maida Vale	595	exclusive	6 Months+
+3 Bed Flat	5	Cromwell Road x3	SW7 4HA	Gloucester Road/Earls Court	600	exclusive	1 Year
+3 Bed Flat	3	Weatherby Place (for students)	SW7	Gloucester Road	600	inc + elec	1 Year
+3 Bed Flat	4	Hall Place	W2 1NE	Edgware Road	600	inc + elec	3 Months+
+3 Bed Flat	6	Cromwell Road (available1/7/14)	SW5	Gloucester Road	620	exclusive	1 Year
+3 Bed Flat	6	Palace Mansions, Earsby Street	W14	Kensington	650	exclusive	6 Months+
+3 Bed Flat	5	Royal College Street (vacant 30/6)	NW1	Camden Town (share bathroom with 1)	690	inc + ct	6 Months+
+3 Bed Flat	4	Queensgate	SW7	South Kensington	710	inclusive	6 Months+
+3 Bed Flat	6	Morshead road	W9	Maida Vale	765	inc + ct + elec	6 Months+
+3 Bed Flat	6	Elgin Avenue	W9	Maida Vale	765	inc + ct + elec	6 Months+
+4 Bed Flat	8	Abbey Road	NW8	St John&#39;s Wood	1200	inc + ct + elec	6 Months+
+4 Bed Flat	6	Howard Road	NW2 6DS	Kilburn	400	inc + ct + elec	6 Months+
+4 Bed Flat	5	Gardner Road	E13	Plaistow	427	inc + ct + elec	6 Months+
+4 Bed Flat	8	Phipps House	W12 7QE	White City	480	Exclusive	1 year
+4 Bed Flat	6	Douglas Terrace	E17	Walthamstow	490	inc + ct + elec	6 Months+
+4 Bed Flat	8	Kensal Green	NW10	Kensal Green	495	exclusive	6 Months+
+4 Bed Flat	01-Aug	Adelaide Grove	W12 0JL	Shepherd&#39;s Bush	525	6 Months+
+4 Bed Flat	4	Maida Vale	W9	Maida Vale	590	exclusive	6 Months+
+4 Bed Flat	6	Cromwell Road (available1/7/14)	SW5	Gloucester Road	620	exclusive	10 Months
+4 Bed Flat	6	Cromwell Road (available1/9/14)	SW5	Gloucester Road	620	exclusive	10 Months
+4 Bed Flat	6	Galloway Road	W12	Shepherds Bush	660	exclusive	6 Months+
+4 Bed Flat	6	Audley Road	W5	Ealing	690	exclusive	6 Months+
+4 Bed Flat	1	Cromwell Road	SW5	Gloucester Road/Earls Court	700	exclusive	2 Months+
+4 Bed Flat	6	Cromwell Road (available1/9/14)	SW5	Gloucester Road	700	exclusive	10 Months
+4 Bed Flat	8	Manor House	NW1	Marylebone	775	inc + ct + elec	6 Months+
+5+ Bed Flat	8	Durham Road	E16	West Ham	415	inc + ct + elec	6 Months+
+5+ Bed Flat	8	Whitton Avenue East	UB6 0PX	Greenford	450	inclusive	6 Months+
+5+ Bed Flat	8	Furness Road	NW10 4PP	Willesden Junction	577	exclusive	6 Months+
+5+ Bed Flat	8	Camden Road	NW1	Camden Town	700	exclusive	6 Months+
+5+ Bed Flat	8	Nyton Close	N19	Archway	700	inc + elec	6 Months+
+5+ Bed Flat	8	Gloucester Road	W3 8PD	Acton Central	750	inc + elec	1 year
+5+ Bed Flat	8	Old Street	EC1V	Old Street	969	inc + ct + elec	6 Months+

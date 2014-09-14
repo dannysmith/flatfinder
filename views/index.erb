@@ -1,0 +1,159 @@
+<html>
+<head>
+  <title>Available Properties</title>
+  <link href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet">
+  <link href="http://netdna.bootstrapcdn.com/font-awesome/3.1.1/css/font-awesome.min.css" rel="stylesheet">
+  <link href="http://cdnjs.cloudflare.com/ajax/libs/x-editable/1.4.5/bootstrap-editable/css/bootstrap-editable.css" rel="stylesheet">
+  <link href="bootstrap-filterable.css" rel="stylesheet">
+  <style>
+    body {
+      padding: 3%;
+    }
+
+    #customFilter {
+      height: 2.15em;
+      width: 100%;
+    }
+
+    .custom-main-filter {
+      padding: 1em;
+      border-radius: 3px;
+      background: rgba(100,100,0,0.1);
+      margin: 1.5em 0;
+    }
+
+  </style>
+</head>
+<body>
+  <h1>Available Properties from FlatLand</h1>
+
+  <section>
+  <div class="custom-main-filter">
+    <div class="input-prepend">
+      <span class="add-on">Filter</span>
+      <input id="customFilter" type="text" placeholder="Type filter here...">
+    </div>
+  </div>
+
+  <% unless @ideal.nil? %>
+      <p>These properties are ideally located:</p>
+      <table id="properties" class="table table-striped">
+      <thead>
+        <tr>
+          <th>Type</th>
+          <th>Tennants</th>
+          <th>Property</th>
+          <th>Postcode</th>
+          <th>Tube</th>
+          <th>Rent</th>
+          <th>Bills</th>
+          <th>Length</th>
+        </tr>
+      </thead>
+      <tbody class="searchable">
+        <% @ideal.each do |p| %>
+        <tr class="warning">
+          <td><%= p.type %></td>
+          <td><%= p.tennants %></td>
+          <td><a href="http://maps.google.com/maps?q=<%= URI::encode(p.property.strip)%>+<%= URI::encode(p.pc.strip)%>"><%= p.property %></a></td>
+          <td><%= p.pc %></td>
+          <td><%= p.tube %></td>
+          <td><%= p.rent %></td>
+          <td><%= p.bills %></td>
+          <td><%= p.length %></td>
+        </tr>
+        <% end %>
+      </tbody>
+    </table>
+  <% end %>
+
+  <% unless @wider.nil? %>
+      <p>These properties are probably ok for location. Some of the ones above might be repeated here.</p>
+      <table id="properties" class="table table-striped">
+      <thead>
+        <tr>
+          <th>Type</th>
+          <th>Tennants</th>
+          <th>Property</th>
+          <th>Postcode</th>
+          <th>Tube</th>
+          <th>Rent</th>
+          <th>Bills</th>
+          <th>Length</th>
+        </tr>
+      </thead>
+      <tbody class="searchable">
+        <% @wider.each do |p| %>
+        <tr class="success">
+          <td><%= p.type %></td>
+          <td><%= p.tennants %></td>
+          <td><a href="http://maps.google.com/maps?q=<%= URI::encode(p.property.strip)%>+<%= URI::encode(p.pc.strip)%>"><%= p.property %></a></td>
+          <td><%= p.pc %></td>
+          <td><%= p.tube %></td>
+          <td><%= p.rent %></td>
+          <td><%= p.bills %></td>
+          <td><%= p.length %></td>
+        </tr>
+        <% end %>
+      </tbody>
+    </table>
+  <% end %>
+
+
+    <table id="properties" class="table table-striped">
+      <p>These are all the properties that meet the minimum criteria for location, price and type. The ones above will also be shown in here.</p>
+      <p>To view all the properties available from FlatLand, visit <a href="/">the homepage</a>.</p>
+      <thead>
+        <tr>
+          <th>Type</th>
+          <th>Tennants</th>
+          <th>Property</th>
+          <th>Postcode</th>
+          <th>Tube</th>
+          <th>Rent</th>
+          <th>Bills</th>
+          <th>Length</th>
+        </tr>
+      </thead>
+      <tbody class="searchable">
+        <% @properties.each do |p| %>
+        <tr>
+          <td><%= p.type %></td>
+          <td><%= p.tennants %></td>
+          <td><a href="http://maps.google.com/maps?q=<%= URI::encode(p.property.strip)%>+<%= URI::encode(p.pc.strip)%>"><%= p.property %></a></td>
+          <td><%= p.pc %></td>
+          <td><%= p.tube %></td>
+          <td><%= p.rent %></td>
+          <td><%= p.bills %></td>
+          <td><%= p.length %></td>
+        </tr>
+        <% end %>
+      </tbody>
+    </table>
+  </section>
+  <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+  <script src="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/x-editable/1.4.5/bootstrap-editable/js/bootstrap-editable.min.js"></script>
+  <script src="jquery.filterable.min.js"></script>
+  <script>
+  $(document).ready(function () {
+
+      // Use Filterable Plugin
+      $('#properties').filterable();
+
+
+      //Custom Quick Filter
+      (function ($) {
+        $('#customFilter').keyup(function () {
+            var rex = new RegExp($(this).val(), 'i');
+            $('.searchable tr').hide();
+            $('.searchable tr').filter(function () {
+                return rex.test($(this).text());
+            }).show();
+        })
+      }(jQuery));
+
+    });
+  </script>
+</body>
+</html>
