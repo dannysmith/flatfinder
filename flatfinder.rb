@@ -7,20 +7,21 @@ class Property
 
   def initialize(line)
     @line = line
+    puts "Loading property: #{line}"
     split_lines = line.split("\t")
     # If the property type seems to be a postcode, shunt everything down one.
-    if split_lines[2].match(/^\s*((GIR\s*0AA)|((([A-PR-UWYZ][0-9]{1,2})|(([A-PR-UWYZ][A-HK-Y][0-9]{1,2})|(([A-PR-UWYZ][0-9][A-HJKSTUW])|([A-PR-UWYZ][A-HK-Y][0-9][ABEHMNPRVWXY]))))\s*[0-9][ABD-HJLNP-UW-Z]{2}))\s*$/i)
-      split_lines.insert(2, "-")
-    end
+    # if split_lines[2].match(/^\s*((GIR\s*0AA)|((([A-PR-UWYZ][0-9]{1,2})|(([A-PR-UWYZ][A-HK-Y][0-9]{1,2})|(([A-PR-UWYZ][0-9][A-HJKSTUW])|([A-PR-UWYZ][A-HK-Y][0-9][ABEHMNPRVWXY]))))\s*[0-9][ABD-HJLNP-UW-Z]{2}))\s*$/i)
+    #   split_lines.insert(2, "-")
+    # end
 
-    @type = split_lines[0]
-    @property = split_lines[1]
-    @tennants = split_lines[2].to_i
-    @tube = split_lines[3]
-    @pc = split_lines[5]
-    @rent = split_lines[4].to_i
-    @bills = split_lines[6]
-    @length = split_lines[7]
+    @type = split_lines[1-1]
+    @property = split_lines[4-1]
+    @tennants = split_lines[2-1].to_i
+    @tube = split_lines[3-1]
+    @pc = split_lines[7-1]
+    @rent = split_lines[5-1].to_i
+    @bills = split_lines[6-1]
+    @length = split_lines[8-1]
   end
 end
 
